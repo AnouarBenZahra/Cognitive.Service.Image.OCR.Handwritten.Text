@@ -1,2 +1,2 @@
-# Cognitive.Service.Image.OCR.Handwritten.Text
+#Cognitive.Service.Image.OCR.Handwritten.Text
   
