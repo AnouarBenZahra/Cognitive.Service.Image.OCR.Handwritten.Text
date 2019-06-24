@@ -8,15 +8,7 @@ namespace Cognitive.Service.Image.OCR.Handwritten.Text.Models
 {
     public class ImageInfo
     {
-        public string status
-        {
-            get;
-            set;
-        }
-        public RecognitionResult recognitionResult
-        {
-            get;
-            set;
-        }
+        public string status{get;set;}
+        public RecognitionResult recognitionResult{get;set;}        
     }
 }
